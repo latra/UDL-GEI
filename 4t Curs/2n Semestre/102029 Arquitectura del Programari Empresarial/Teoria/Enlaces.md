@@ -58,4 +58,4 @@
 [Native Script](https://nativescript.org/)\\
 [Ionic Framework](https://ionic.io/framework)\\
 [Angular: Getting started with service workers](https://angular.io/guide/service-worker-getting-started)\\
-[Bootstrap](https://scrimba.com/learn/bootstrap4)\\
+[Bootstrap](https://scrimba.com/learn/bootstrap4)\\ 
