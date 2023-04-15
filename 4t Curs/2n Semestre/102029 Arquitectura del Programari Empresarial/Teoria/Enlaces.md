@@ -37,12 +37,12 @@
 [Spring Boot Quick Start 1 - Introduction](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)\\
 [Spring Data JPA - Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)\\
 [Spring Data REST Reference Guide](https://docs.spring.io/spring-data/rest/docs/current/reference/html/)\\
-[1. WebSockets](https://en.wikipedia.org/wiki/WebSocket)\\
-[2. STOMP over WebSockets](http://jmesnil.net/stomp-websocket/doc/)\\
-[3. Spring WebSocket documentation](https://spring.io/guides/gs/messaging-stomp-websocket/)\\
-[4. Building a chat application with Spring Boot and WebSocket](https://www.callicoder.com/spring-boot-websocket-chat-example/)\\
-[4. Building a chat application with Spring Boot and WebSocket (github project)](https://github.com/callicoder/spring-boot-websocket-chat-demo)\\
-[5. Spring Boot chatroom with multiple rooms using STOMP over websockets (github project)](https://github.com/ddycai/spring-boot-chatrooms)\\
+[1. WebSockets](https://en.wikipedia.org/wiki/WebSocket)\
+[2. STOMP over WebSockets](http://jmesnil.net/stomp-websocket/doc/)\
+[3. Spring WebSocket documentation](https://spring.io/guides/gs/messaging-stomp-websocket/)\
+[4. Building a chat application with Spring Boot and WebSocket](https://www.callicoder.com/spring-boot-websocket-chat-example/)\
+[4. Building a chat application with Spring Boot and WebSocket (github project)](https://github.com/callicoder/spring-boot-websocket-chat-demo)\
+[5. Spring Boot chatroom with multiple rooms using STOMP over websockets (github project)](https://github.com/ddycai/spring-boot-chatrooms)\
 [6. Create a simple Chat application with Spring Boot and Websocket](https://o7planning.org/10719/create-a-simple-chat-application-with-spring-boot-and-websocket)\\
 [7. Spring Websockets Testing](https://medium.com/@MelvinBlokhuijzen/spring-websocket-endpoints-integration-testing-180357b4f24c)\\
 [7. Spring Websockets Testing (github project)](https://github.com/MBlokhuijzen/Spring-Websockets-IntegrationTest)\\
